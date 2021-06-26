@@ -1,4 +1,4 @@
-# Genrative Adversarial Based oversampling of Software fault prediction
+# Genrative Adversarial Based oversampling method for Software fault prediction
 
 We have created nine different script files, each belonging to an individual technique to handle the imbalance in the data.
 
