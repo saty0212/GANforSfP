@@ -42,3 +42,5 @@ Procedure :
     3. Decision Tree
     4. Naive Bayes
     5. Logistic Regression
+
+Note: We have added a supplementry file to provide further details on the used models and datasets. 
