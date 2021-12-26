@@ -2,7 +2,7 @@
 
 We have created nine different script files, each belonging to an individual technique to handle the imbalance in the data.
 
-We have used nine methods to hanlde this imbalance :
+We have used nine methods to handle this imbalance :
   1. WGANGP based oversampling
   2. SMOTE oversampling 
   3. ADASYN oversampling
